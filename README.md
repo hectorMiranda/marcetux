@@ -1,3 +1,3 @@
 Marcetux
 
-# a set of utilities for dotnet core
+a set of utilities for dotnet core
